@@ -1,0 +1,8 @@
+{
+  "name": "Qaanuunka Guusha",
+  "description": "A comprehensive self-development platform based on the 12 Laws of Success, featuring AI-powered mentorship, daily checklists, and interactive lessons.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
